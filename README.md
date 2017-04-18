@@ -1,5 +1,7 @@
 ![mongoForge](./resources/osx/icon.iconset/icon_256x256.png?raw=true "mongoforge")
 # mongoForge
+
+[![Join the chat at https://gitter.im/kalahari/mongoForge](https://badges.gitter.im/kalahari/mongoForge.svg)](https://gitter.im/kalahari/mongoForge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 MongoDB Admin Client GUI/CLI for Mac/Windows/Linux
 
 [![Build Status](https://travis-ci.org/kalahari/mongoForge.svg?branch=master)](https://travis-ci.org/kalahari/mongoForge)
